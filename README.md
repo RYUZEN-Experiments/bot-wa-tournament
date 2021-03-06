@@ -1,5 +1,5 @@
 # bot-wa-tournament
 
-kalian bikin turnamen game? 
+cih apaan sih
 
 ©RyuzenExperiments 2019
