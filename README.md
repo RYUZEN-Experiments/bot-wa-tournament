@@ -1,5 +1,5 @@
 # bot-wa-tournament
 
-Tolong jangan reedit codingan ini.
+kalian bikin turnamen game? 
 
 ©RyuzenExperiments 2019
